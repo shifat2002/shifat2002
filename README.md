@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Cyber Security, etc**
 
+- 🔭 I’m currently Studying **Computer Science**
+
 - 💬 About me **Dedicated Software Quality Assurance enthusiast, currently pursuing a course in Software Quality Assurance at People N Tech. Experienced in all phases of software development life cycle (SDLC), including Implementation and Documentation. Aspiring to build a career in Software Quality Assurance**
 
 - 📫 How to reach me **shifatmahmud2002@gmail.com**
