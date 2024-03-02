@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shifat Mahmud</h1>
 <h3 align="center">A passionate Software Tester from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shifat2002&label=Profile%20views&color=0e75b6&style=flat" alt="shifat2002" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shifat2002" alt="shifat2002" /></a> </p>
 
 - 🌱 I’m currently learning **Cyber Security, etc**
+
+- 💬 About me **Dedicated Software Quality Assurance enthusiast, currently pursuing a course in Software Quality Assurance at People N Tech. Experienced in all phases of software development life cycle (SDLC), including Implementation and Documentation. Aspiring to build a career in Software Quality Assurance**
 
 - 📫 How to reach me **shifatmahmud2002@gmail.com**
 
